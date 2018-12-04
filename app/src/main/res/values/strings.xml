@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Learn ABC</string>
+    <string name="play">PLAY</string>
+</resources>
